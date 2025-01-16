@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+  <!-- X sprite -->
+  <g transform="translate(0,0)">
+    <rect x="0" y="0" width="100" height="100" fill="white" stroke="black" stroke-width="2"/>
+    <line x1="20" y1="20" x2="80" y2="80" stroke="black" stroke-width="8" stroke-linecap="round"/>
+    <line x1="80" y1="20" x2="20" y2="80" stroke="black" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>
+
